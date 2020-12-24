@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+body{
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 18%, rgba(8,68,140,0.4430147058823529) 73%, rgba(0,155,255,0.6530987394957983) 100%);
+}
+
 h1{
     margin-top: 10px;
     text-align: center;
